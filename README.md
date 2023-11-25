@@ -16,5 +16,13 @@ Apache Airflow is an open-source platform used for orchestrating and scheduling 
 
 ## Architecture Diagram
 
-<img src="architecture.jpeg">
+<img src="architecture_zilllow.png">
+
+## Dags process (Airflow)
+
+<img src="zillowdag.png">
+
+## DashBoard (in AWS QuickSight)
+
+<img src="simpleDashboardZillow.png">
 
