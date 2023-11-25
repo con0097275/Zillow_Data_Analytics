@@ -16,7 +16,7 @@ Apache Airflow is an open-source platform used for orchestrating and scheduling 
 3. QuickSight: Amazon QuickSight is a scalable, serverless, embeddable, machine learning-powered business intelligence (BI) service built for the cloud.
 4. AWS Lambda: Lambda is a computing service that allows programmers to run code without creating or managing servers.
 5. AWS EC2: launch as many or as few virtual servers as you need, configure security and networking, and manage storage. And We deploy the Airflow DAG in the created EC2 instance.
-
+6. AWS RedShift: analyze structured and semi-structured data across data warehouses, operational databases, and data lakes.
 ## Architecture Diagram
 
 <img src="architecture_zilllow.png">
