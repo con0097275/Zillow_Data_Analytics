@@ -27,7 +27,6 @@ def extract_zillow_data(**kwargs):
     response = requests.get(url, headers=headers, params=querystring)
     response_data = response.json()
     
-
     # Specify the output file path
     output_file_path = f"/home/ubuntu/response_data_{dt_string}.json"
     file_str = f'response_data_{dt_string}.csv'
@@ -42,7 +41,7 @@ default_args = {
     'owner': 'airflow',
     'depends_on_past': False,
     'start_date': datetime(2023, 8, 1),
-    'email': ['myemail@domain.com'],
+    'email': ['van00972756@gmail.com'],
     'email_on_failure': False,
     'email_on_retry': False,
     'retries': 2,
