@@ -19,13 +19,13 @@ Apache Airflow is an open-source platform used for orchestrating and scheduling 
 6. AWS RedShift: analyze structured and semi-structured data across data warehouses, operational databases, and data lakes.
 ## Architecture Diagram
 
-<img src="architecture_zilllow.png">
+<img src="images/architecture_zilllow.png">
 
 ## Dags process (Airflow)
 
-<img src="zillowdag.png">
+<img src="images/zillowdag.png">
 
 ## DashBoard (in AWS QuickSight)
 
-<img src="simpleDashboardZillow.png">
+<img src="images/simpleDashboardZillow.png">
 
